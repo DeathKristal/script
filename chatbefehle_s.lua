@@ -1,5 +1,4 @@
 outputChatBox("Hallo das ist ein Test versuch")
-outputChatBox("Willkommen auf CoA Reallife",getRootElement(),255,0,0)
 
 
 
